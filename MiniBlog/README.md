@@ -1,8 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este foi um projeto criado através do curso realizado na plataforma Udemy. Para instalação e manipulação dos pacotes Node, utilizei da tecnologia Vite. 
 
-Currently, two official plugins are available:
+O código teve a produção direta realizada através do curso realizado. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Links disponíveis abaixo:
+
+- [React do Zero a Maestria (c/ hooks, router, API, Projetos)](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/)
